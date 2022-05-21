@@ -1,14 +1,14 @@
-##Query Hive Data from UI using Streamlit
+Query Hive Data from UI using Streamlit
 
-######Connection String
+Connection String
 `presto.connect(host='Presto Host',port=PORT,username='USER_NAME')`
 &nbsp;
 &nbsp;
 
-######SQL queries can be uploaded as .txt / .sql formats or pasted in textarea.
+SQL queries can be uploaded as .txt / .sql formats or pasted in textarea.
 
 
-######Dates and Tables names will be displayed for reference.
+Dates and Tables names will be displayed for reference.
 
 &nbsp;
 
