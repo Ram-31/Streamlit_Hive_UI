@@ -5,6 +5,8 @@ Connection String
 &nbsp;
 &nbsp;
 
+DB connection and Queried data are cached.
+
 SQL queries can be uploaded as .txt / .sql formats or pasted in textarea.
 
 
